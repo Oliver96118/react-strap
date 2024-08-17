@@ -308,7 +308,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-react": "^7.30.0",
-    "eslint-plugin-storybook": "^0.6.1",
+    "eslint-plugin-storybook": "^0.8.0",
     "holderjs": "^2.9.3",
     "jest": "28.1.3",
     "jest-environment-jsdom": "28.1.3",

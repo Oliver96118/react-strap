@@ -287,7 +287,7 @@
     "@storybook/react": "^6.3.7",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "12.1.5",
-    "@testing-library/user-event": "13.5.0",
+    "@testing-library/user-event": "14.5.2",
     "@types/react": "^16.9.51",
     "babel-eslint": "^9.0.0",
     "babel-jest": "28.1.3",
